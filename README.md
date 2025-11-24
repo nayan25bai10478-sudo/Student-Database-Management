@@ -10,7 +10,7 @@ Search & Filter: Advanced filtering by name, ID, grade level, or course
 User Authentication: Secure login system with role-based access control
 
 Installation
-Prerequisites
+Prerequisites:
 
 Python 3.8 or higher
 pip (Python package installer)
@@ -18,9 +18,9 @@ SQLite3 (included with Python)
 
 Setup Instructions
 
-Clone the repository:
+Clone the repository: https://github.com/nayan25bai10478-sudo/Student-Database-Management.git
 
-bashgit clone https://github.com/yourusername/student-database.git
+bashgit clone 
 cd student-database
 
 Create a virtual environment:
@@ -39,5 +39,3 @@ bashpython setup_db.py
 Run the application:
 
 python main.py
-
-Run the application:
